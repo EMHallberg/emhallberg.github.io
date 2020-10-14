@@ -51,7 +51,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -61,11 +61,12 @@ author:
   bio    : "PhD student in Economis at IIES."
   location: "Stockholm, Sweden"
   links:
-    - label: "Twitter"
+    - label: "@mattiashallberg"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/"
     - label: "Email"
       icon: "fab fa-fw fa-envelope"
+      url: "mailto:mattias@mattiahallberg.se"
 
 footer:
   links:
@@ -83,8 +84,8 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
-      related: true
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
