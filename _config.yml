@@ -61,7 +61,7 @@ author:
   bio    : "PhD student in Economis at IIES."
   location: "Stockholm, Sweden"
   links:
-    - label: "Email"
+    - label: "mattias@mattiashallberg.se"
       icon: "far fa-envelope"
       url: "mailto:mattias@mattiahallberg.se"
     - label: "@mattiashallberg"
