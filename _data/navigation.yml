@@ -2,6 +2,6 @@ main:
   - title: "Home"
     url: https://emhallberg.github.io
   - title: "Research"
-    url: /categories/
+    url: /research/
   - title: "Teaching"
-    url: /tags/
+    url: /teaching/
