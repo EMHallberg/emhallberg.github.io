@@ -1,0 +1,5 @@
+Being a researcher is like sitting in front of a desk next to an open window with your feet in a tub of water. Looking out through the window, on the world, captures your imagination. It raises questions about cause and effect, the processes that lead us here and where we are headed. The tub of water reminds you to stay at the desk so that you can reflect upon, analyze, contextualize and write down your observations. Only then can they be structures into coherent logical frameworks and theories. 
+
+The researcher who closes the window gets peace of mind and will be successful in putting words on the paper, but it comes a the cost of missing new facts to consider. The researcher who ignores the tub and run out on the street will surely get exiting experiences, but will likely not find the objective distance, or the time, to analyze them impartially. 
+
+My natural inclination is to lean out of the window as far as possible. To call on the passers by to tell me what is happening. So as a researcher I have to struggle to keep both feet in the tub. That is the kind of researcher I am hoping to become. 
