@@ -16,9 +16,9 @@
 title: Mattias Hallberg
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Mattias Hallberg
-twitter_username: mattiashallberg
-github_username: EMHallberg
+  Mattias Folkestad
+twitter_username: mattias_fo
+github_username: mfolkestad
 minimal_mistakes_skin: default
 search: true
 
@@ -56,15 +56,15 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Mattias Hallbeg"
+  name   : "Mattias Folkestad"
   avatar : "/assets/images/me.jpg"
   bio    : "PhD student in Economis at IIES."
   location: "Stockholm, Sweden"
   links:
-    - label: "mattias@mattiashallberg.se"
+    - label: "mattias@mattiasfolkestad.com"
       icon: "far fa-envelope"
-      url: "mailto:mattias@mattiahallberg.se"
-    - label: "@mattiashallberg"
+      url: "mailto:mattias@mattiasfolkestad.com"
+    - label: "@mattias_fo"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/"
 
